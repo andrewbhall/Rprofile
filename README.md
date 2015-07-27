@@ -31,6 +31,6 @@ This function overrides various plot defaults for a cleaner look.  Any/all of th
 
 This function overrides various par defaults for a cleaner look.  Mainly it moves the tick marks and labels closer to the axes.  Again, any defaults can be overwritten by the user.
 
-##makeTransparen()
+##makeTransparent()
 
 Simple function written by Michael Gill which lets the user quickly create colors with varying levels of transperency.
