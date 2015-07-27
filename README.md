@@ -33,4 +33,4 @@ This function overrides various par defaults for a cleaner look.  Mainly it move
 
 ###makeTransparent()
 
-Simple function written by Michael Gill which lets the user quickly create colors with varying levels of transperency.
+Simple function written by [Michael Gill](scholar.harvard.edu/gill/home) which lets the user quickly create colors with varying levels of transperency.
