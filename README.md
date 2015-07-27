@@ -23,14 +23,14 @@ Save off that file (note that you'll need to restart R for it to read this in).
 
 My .Rprofile contains three functions useful for making nice looking default plots.
 
-##plot.hall()
+###plot.hall()
 
 This function overrides various plot defaults for a cleaner look.  Any/all of these can, in turn, be overwritten by the user.
 
-##par.hall()
+###par.hall()
 
 This function overrides various par defaults for a cleaner look.  Mainly it moves the tick marks and labels closer to the axes.  Again, any defaults can be overwritten by the user.
 
-##makeTransparent()
+###makeTransparent()
 
 Simple function written by Michael Gill which lets the user quickly create colors with varying levels of transperency.
